@@ -8,3 +8,11 @@
 完整资料包：关注公众号【饱学猿】，回复【5301】，即可获获取。<br>
 过往知识库：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
+##AI模特秒级换脸
+实操文章：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l
+下载地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh
+
+##Stable diffusion终极教程
+包括部署（视频）、界面介绍、案例实操、关键此表等等
+实操文章：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l
+下载地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh
