@@ -4,9 +4,9 @@
 
 
 ## 超写实虚拟数字人再升级：Wav2Lip-GFPGAN完整版教程及效果视频评测
-项目地址：https://github.com/baoxueyuan/Wav2Lip-GFPGAN
-实操教程：https://yv2c3kamh3y.feishu.cn/docx/I8OLdvQSuoSRHXx5Hf2cJL32nE6
-文章地址：https://zhuanlan.zhihu.com/p/636204948
+项目地址：https://github.com/baoxueyuan/Wav2Lip-GFPGAN<br>
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/I8OLdvQSuoSRHXx5Hf2cJL32nE6<br>
+文章地址：https://zhuanlan.zhihu.com/p/636204948<br>
 
 ## sadtalker
 项目地址：https://github.com/baoxueyuan/SadTalker<br>
@@ -16,7 +16,6 @@
 项目地址：https://github.com/baoxueyuan/Wav2Lip<br>
 实操教程：https://zhuanlan.zhihu.com/p/633324213<br>
 完整资料包：关注公众号【饱学猿】，回复【5301】，即可获获取。<br>
-过往知识库：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
 ## AI模特秒级换脸<br>
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l<br>
@@ -27,4 +26,5 @@
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l<br>
 下载地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
-
+## 精彩案例教程知识库
+获取地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
