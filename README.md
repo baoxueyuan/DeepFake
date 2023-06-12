@@ -3,6 +3,11 @@
 目前已完成Wav2Lip、Wav2Lip-GFPGAN评测，持续更新，感谢关注！
 
 
+## AI视频换脸
+项目地址：https://github.com/baoxueyuan/roop<br>
+实操教程：大饱在写作中...，即将完成
+
+
 ## 超写实虚拟数字人再升级：Wav2Lip-GFPGAN完整版教程及效果视频评测
 项目地址：https://github.com/baoxueyuan/Wav2Lip-GFPGAN<br>
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/I8OLdvQSuoSRHXx5Hf2cJL32nE6<br>
