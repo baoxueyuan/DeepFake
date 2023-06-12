@@ -5,8 +5,8 @@
 
 ## AI视频换脸
 项目地址：https://github.com/baoxueyuan/roop<br>
-实操教程：大饱在写作中...，即将完成
-
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/VLmodrgz3oItrzx0h0QcCtOynLd
+完整资料包：关注公众号【饱学猿】，回复【6122】，即可获获取。<br>
 
 ## 超写实虚拟数字人再升级：Wav2Lip-GFPGAN完整版教程及效果视频评测
 项目地址：https://github.com/baoxueyuan/Wav2Lip-GFPGAN<br>
