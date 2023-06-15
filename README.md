@@ -29,7 +29,7 @@
 下载地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
 ## Stable diffusion终极教程<br>
-包括部署（视频）、界面介绍、案例实操、关键此表等等<br>
+包括部署（视频）、界面介绍、案例实操、关键词表等等<br>
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l<br>
 下载地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
