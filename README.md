@@ -42,7 +42,8 @@
 
 ## stable diffusion
 ### stable diffusion云端部署
-实操教程：https://yv2c3kamh3y.feishu.cn/docx/BfOXdK0YxopULRxBOjSchk7HnLk
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/BfOXdK0YxopULRxBOjSchk7HnLk<br>
+完整资料包：关注公众号【饱学猿】，回复【6172】，即可获获取。<br>
 ### stable diffusion windows部署
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/MLzxdp3J9oC567x0MDLcqSG2npe
 ### 免费在线stable diffusio
