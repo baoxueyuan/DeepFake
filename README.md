@@ -2,7 +2,7 @@
 深度伪造一词译自英文“Deepfake”(“deep learning”和“fake”的组合)。它是一种利用机器学习的子领域——深度学习创建合成媒体的技术。
 目前已完成Wav2Lip、Wav2Lip-GFPGAN评测，持续更新，感谢关注！
 
-## 精彩案例教程**知识库**
+## 精彩案例教程**知识库**【※※※※※】
 获取地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
 ## AI视频换脸
