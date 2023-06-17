@@ -14,6 +14,10 @@
 文章地址：https://zhuanlan.zhihu.com/p/636204948<br>
 完整资料包：关注公众号【饱学猿】，回复【6122】，即可获获取。<br>
 
+## 如何创建炫酷的艺术二维码QR 【完整教程】|Stable Diffusion与ControlNet 
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/VLmodrgz3oItrzx0h0QcCtOynLd<br>
+完整资料包：关注公众号【饱学猿】，回复【6171】，即可获获取。<br>
+
 ## sadtalker虚拟数字人
 项目地址：https://github.com/baoxueyuan/SadTalker<br>
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/Zl4adtdEAoFhV3xCyZGcddiMn1g<br>
@@ -35,3 +39,13 @@
 
 ## 精彩案例教程知识库
 获取地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
+
+## stable diffusion
+### stable diffusion云端部署
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/BfOXdK0YxopULRxBOjSchk7HnLk
+### stable diffusion windows部署
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/MLzxdp3J9oC567x0MDLcqSG2npe
+### 免费在线stable diffusio
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/MLzxdp3J9oC567x0MDLcqSG2npe
+### stable diffusion终极教程
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l
