@@ -2,6 +2,8 @@
 深度伪造一词译自英文“Deepfake”(“deep learning”和“fake”的组合)。它是一种利用机器学习的子领域——深度学习创建合成媒体的技术。
 目前已完成Wav2Lip、Wav2Lip-GFPGAN评测，持续更新，感谢关注！
 
+## 精彩案例教程**知识库**
+获取地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
 ## AI视频换脸
 项目地址：https://github.com/baoxueyuan/roop<br>
@@ -37,8 +39,6 @@
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l<br>
 下载地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
-## 精彩案例教程知识库
-获取地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
 ## stable diffusion
 ### stable diffusion云端部署
