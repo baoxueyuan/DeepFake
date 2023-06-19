@@ -14,7 +14,7 @@
 项目地址：https://github.com/baoxueyuan/Wav2Lip-GFPGAN<br>
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/I8OLdvQSuoSRHXx5Hf2cJL32nE6<br>
 文章地址：https://zhuanlan.zhihu.com/p/636204948<br>
-完整资料包：关注公众号【饱学猿】，回复【6122】，即可获获取。<br>
+完整资料包：关注公众号【饱学猿】，回复【6102】，即可获获取。<br>
 
 ## 如何创建炫酷的艺术二维码QR 【完整教程】|Stable Diffusion与ControlNet 
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/VLmodrgz3oItrzx0h0QcCtOynLd<br>
