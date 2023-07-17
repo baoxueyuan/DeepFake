@@ -50,3 +50,9 @@
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/MLzxdp3J9oC567x0MDLcqSG2npe
 ### stable diffusion终极教程
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l
+
+
+## midjourney<br>
+### midjourney AI绘画指南手册
+指南地址：https://x0178305i9.feishu.cn/docx/Jj3mdh084owHe0xvuh2cHt9Znef <br>
+完整电子版：关注公众号【饱学猿】，回复【AI绘画指南】，即可获获取。<br>
