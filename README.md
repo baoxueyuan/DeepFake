@@ -42,11 +42,10 @@
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l<br>
 下载地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
-## Stable diffusion终极教程<br>
+## Stable diffusion终极教程【指南手册】<br>
 包括部署（视频）、界面介绍、案例实操、关键词表等等<br>
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l<br>
 下载地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
-
 
 ## stable diffusion
 ### stable diffusion云端部署
@@ -54,11 +53,8 @@
 完整资料包：关注公众号【饱学猿】，回复【6172】，即可获获取。<br>
 ### stable diffusion windows部署
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/MLzxdp3J9oC567x0MDLcqSG2npe
-### 免费在线stable diffusio
+### 免费在线版 stable diffusion
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/MLzxdp3J9oC567x0MDLcqSG2npe
-### stable diffusion终极教程
-实操教程：https://yv2c3kamh3y.feishu.cn/docx/T0mKdoPL4o9GOkxgYgXcOm5xn0l
-
 
 ## midjourney<br>
 ### midjourney AI绘画指南手册
