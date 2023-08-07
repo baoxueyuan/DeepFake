@@ -5,7 +5,7 @@
 ## 精彩案例教程**知识库**【※※※※※】
 获取地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
-## AI艺术二维码
+## AI艺术二维码【免安装】
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/A5GYdV1k6oSIdIxgeoicNVCTnXc?from=from_copylink<br>
 完整资料包：关注公众号【饱学猿】，回复数字【8601】，即可获取，均可复现。<br>
 
