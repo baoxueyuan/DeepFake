@@ -9,10 +9,6 @@
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/A5GYdV1k6oSIdIxgeoicNVCTnXc?from=from_copylink<br>
 完整资料包：关注公众号【饱学猿】，回复数字【8601】，即可获取，均可复现。<br>
 
-## 解压即用！AI一键换脸，支持图片换脸/视频换脸【windows&mac】免费开源工具
-实操教程：https://yv2c3kamh3y.feishu.cn/docx/U5i8dGPksoOs97xKQfJcbH1Mnkd?from=from_copylink<br>
-完整资料包：关注公众号【饱学猿】，回复数字【7271】，即可获取，均可复现。
-
 ## AI炫酷创意文字终极指南【Stable diffusion】
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/UrMNdeOkHoF1kgxyQTEc8Guanfg?from=from_copylink<br>
 完整资料包：关注公众号【饱学猿】，回复数字【7201】，即可获取，均可复现。
@@ -21,6 +17,10 @@
 项目地址：https://github.com/baoxueyuan/roop<br>
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/VLmodrgz3oItrzx0h0QcCtOynLd<br>
 完整资料包：关注公众号【饱学猿】，回复【6122】，即可获获取。<br>
+
+## 解压即用！AI一键换脸，支持图片换脸/视频换脸【windows&mac】免费开源工具
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/U5i8dGPksoOs97xKQfJcbH1Mnkd?from=from_copylink<br>
+完整资料包：关注公众号【饱学猿】，回复数字【7271】，即可获取，均可复现。
 
 ## 超写实虚拟数字人再升级：Wav2Lip-GFPGAN完整版教程及效果视频评测
 项目地址：https://github.com/baoxueyuan/Wav2Lip-GFPGAN<br>
