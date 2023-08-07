@@ -5,6 +5,10 @@
 ## 精彩案例教程**知识库**【※※※※※】
 获取地址：https://yv2c3kamh3y.feishu.cn/sheets/CmPAsSNLghiCvFtOeCjcneqVnCh<br>
 
+## AI艺术二维码
+实操教程：https://yv2c3kamh3y.feishu.cn/docx/A5GYdV1k6oSIdIxgeoicNVCTnXc?from=from_copylink<br>
+完整资料包：关注公众号【饱学猿】，回复数字【8601】，即可获取，均可复现。<br>
+
 ## 解压即用！AI一键换脸，支持图片换脸/视频换脸【windows&mac】免费开源工具
 实操教程：https://yv2c3kamh3y.feishu.cn/docx/U5i8dGPksoOs97xKQfJcbH1Mnkd?from=from_copylink<br>
 完整资料包：关注公众号【饱学猿】，回复数字【7271】，即可获取，均可复现。
